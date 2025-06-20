@@ -1,2 +1,2 @@
-tvdatafeed
+tvdatafeed @ git+https://github.com/StreamAlpha/tvdatafeed.git
 requests
