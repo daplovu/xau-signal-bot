@@ -1,0 +1,5 @@
+
+import os
+TV_USERNAME = os.getenv("TV_USERNAME")
+TV_SESSIONID = os.getenv("TV_SESSIONID")
+DISCORD_WEBHOOK_URL = os.getenv("DISCORD_WEBHOOK_URL")
